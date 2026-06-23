@@ -18,6 +18,15 @@ This project demonstrates how animal data can be presented on a webpage using HT
 * CSS
 * Python-generated HTML content
 
-## Difference From the Python Project
+## Installation
 
-The Python script is responsible for fetching animal data and generating the HTML file automatically. This HTML file is the final webpage output that users can open in a browser to view the animal information.
+To install this project, simply clone the repository and install the dependencies in requirements.txt using `pip`
+
+## Usage
+
+To use this project, run the following command - `python main.py`.
+
+## Contributing
+
+We welcome contributions! If you'd like to contribute to this project, please follow these guidelines...
+

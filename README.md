@@ -1,3 +1,5 @@
+## Animal Repository
+
 ## Project Description
 
 My Animal Repository is a simple HTML webpage that displays animal information in a clean card-based layout. The page presents a list of animals related to the user's search, showing key details such as diet, location, and animal type. Each animal is displayed in its own styled card, making the information easy to read and visually organized.
